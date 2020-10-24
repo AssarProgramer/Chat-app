@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563761453969",
+    "firebase_url": "https://admin-app-5188f.firebaseio.com",
+    "project_id": "admin-app-5188f",
+    "storage_bucket": "admin-app-5188f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563761453969:android:a1be6add3b750b83dcd830",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563761453969-fa237buh7d8n2rcg2qvpbn9fu8vcvt2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJslubd41EIaOo502Du1NhOiCvsxzWzs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563761453969-fa237buh7d8n2rcg2qvpbn9fu8vcvt2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
